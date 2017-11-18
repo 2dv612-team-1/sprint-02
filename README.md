@@ -8,6 +8,10 @@
 ![sysadmin view](https://github.com/2dv612-team-1/ui2/blob/master/Sysadmin%20view.png "sysadmin")
 
 
-#Logged in as representative
-![representative view](https://github.com/2dv612-team-1/ui2/blob/master/Representative%20view.png)
+#Logged in as company
+![company view](https://github.com/2dv612-team-1/ui2/blob/master/Company%20view.png)
+
+
+#Logged in as consumer
+![consumer view](https://github.com/2dv612-team-1/ui2/blob/master/Consumer%20view%20.png)
 
