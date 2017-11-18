@@ -1,6 +1,6 @@
 # ui2
 
-#Start page, *explain*
+#Start page, this is where user (sysadmin, company,  representatives and consumers log in) This is also where consumers registrate.
 ![start page](https://github.com/2dv612-team-1/ui2/blob/master/Start%20page.png "Login/Register")
 
 
@@ -11,8 +11,10 @@
 #Logged in as company
 ![company view](https://github.com/2dv612-team-1/ui2/blob/master/Company%20view.png "company")
 
+
 #Logged in as representative
 ![company view](https://github.com/2dv612-team-1/ui2/blob/master/Representative%20view.png "representative")
+
 
 #Logged in as consumer
 ![consumer view](https://github.com/2dv612-team-1/ui2/blob/master/Consumer%20view%20.png "consumer")
