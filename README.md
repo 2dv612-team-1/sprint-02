@@ -9,9 +9,11 @@
 
 
 #Logged in as company
-![company view](https://github.com/2dv612-team-1/ui2/blob/master/Company%20view.png)
+![company view](https://github.com/2dv612-team-1/ui2/blob/master/Company%20view.png "company")
 
+#Logged in as representative
+![company view](https://github.com/2dv612-team-1/ui2/blob/master/Representative%20view.png "representative")
 
 #Logged in as consumer
-![consumer view](https://github.com/2dv612-team-1/ui2/blob/master/Consumer%20view%20.png)
+![consumer view](https://github.com/2dv612-team-1/ui2/blob/master/Consumer%20view%20.png "consumer")
 
