@@ -1,7 +1,7 @@
 # ui2 - link to Balsamiq project: https://balsamiq.cloud/sih78/pm2td/r8404
 
 #Start page, this is where users (sysadmin, company,  representatives and consumers) logs in.
-This is also where consumers registrate.
+This is also where consumers registrate accounts.
 
 ![start page](https://github.com/2dv612-team-1/ui2/blob/master/Start%20page.png "Login/Register")
 
