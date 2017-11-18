@@ -1,6 +1,8 @@
 # ui2
 
-#Start page, this is where user (sysadmin, company,  representatives and consumers log in) This is also where consumers registrate.
+#Start page, this is where users (sysadmin, company,  representatives and consumers) logs in.
+This is also where consumers registrate.
+
 ![start page](https://github.com/2dv612-team-1/ui2/blob/master/Start%20page.png "Login/Register")
 
 
