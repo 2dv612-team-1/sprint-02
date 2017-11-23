@@ -1,4 +1,4 @@
-# ui2 - link to Balsamiq project: https://balsamiq.cloud/sih78/pm2td/r8404
+# ui2 - Example GUI for the website with focus on usability
 
 #Start page, this is where users (sysadmin, company,  representatives and consumers) logs in.
 This is also where consumers register accounts.
